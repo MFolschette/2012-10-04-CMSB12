@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.10.22)  10 JUN 2013 10:59
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.10.22)  10 JUN 2013 11:09
 entering extended mode
  %&-line parsing enabled.
 **2012-10-04-CMSB12.tex
@@ -1147,12 +1147,13 @@ ext.code.tex
 (/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecor
 ations.pathmorphing.code.tex
 (/usr/share/texmf/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.p
-athmorphing.code.tex)) (../macros.tex) (../macros-ph.tex
+athmorphing.code.tex)) (./macros/macros.tex) (./macros/macros-ph.tex
 (/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@la=\count162
-) (../macros-abstr.tex
+)
+(./macros/macros-abstr.tex
 (/usr/share/texmf-texlive/tex/latex/galois/galois.sty
 Package: galois 2005/03/19 v1.05, Galois connections, Patrick.Cousot@ens.fr
 \@GALOISalphadepth=\skip62
@@ -2229,7 +2230,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  21548 strings out of 495008
- 427354 string characters out of 1180742
+ 427388 string characters out of 1180742
  611038 words of memory out of 3000000
  23916 multiletter control sequences out of 15000+50000
  66628 words of font info for 70 fonts, out of 3000000 for 9000
